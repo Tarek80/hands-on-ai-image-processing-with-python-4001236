@@ -20,4 +20,5 @@
   "explorer.compactFolders": false,
   "notebook.lineNumbers": "on",
   "files.autoSave": "off",
+  "remote.autoForwardPortsFallback": 0,
 }
